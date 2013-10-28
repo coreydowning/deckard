@@ -4,3 +4,5 @@
 target
 *.iml
 .idea
+gen-external-apklibs
+out
